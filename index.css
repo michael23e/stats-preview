@@ -92,7 +92,7 @@ h2 {
 
   .pic {
     height: 50%;
-    background-image: none;
+  background-image: url(images/image-header-mobile.jpg);
   }
   .pic img{
     display: block;
